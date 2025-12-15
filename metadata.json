@@ -1,0 +1,5 @@
+{
+  "name": "LetterLens",
+  "description": "Aplikasi pintar untuk menganalisis dan mengekstrak informasi penting dari surat secara otomatis menggunakan AI.",
+  "requestFramePermissions": []
+}
